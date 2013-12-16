@@ -1,0 +1,21 @@
+{
+  "name": "sort",
+  "version": "0.0.0",
+  "description": "playing around with sorting algorithms",
+  "main": "binary.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eighttrackmind/sort.git"
+  },
+  "author": "Boris Cherny <boris@performancejs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eighttrackmind/sort/issues"
+  }
+}
